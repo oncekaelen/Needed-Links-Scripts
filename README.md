@@ -6,7 +6,7 @@ A collection of download links and scripts I use regularly.
 
 | Name | Description | Link |
 | ---- | ----------- | ---- |
-| Example App | Short description of what it is | [Download](https://example.com) |
+| Rufus | Create bootable USB drives from ISO images (always the latest release) | [Download](https://github.com/pbatard/rufus/releases/latest) |
 |  |  |  |
 |  |  |  |
 
