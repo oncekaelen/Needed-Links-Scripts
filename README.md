@@ -21,5 +21,5 @@ A personal collection of download links, drivers and scripts I use regularly.
 
 | Name | Description | Link |
 | :--- | :---------- | :--: |
-| **Microsoft Redistributable All-In-One** | Installs every Visual C++ Redistributable (2005–2026, x86 + x64) in one go. | [Download](https://github.com/oncekaelen/Needed-Links-Scripts/raw/main/Microsoft%20Redistributable%20All-In-One.zip) |
+| **Microsoft Redistributable All-In-One** | Installs every Visual C++ Redistributable (2005–2026, x86 + x64) in one go. | [Download](https://raw.githubusercontent.com/oncekaelen/Needed-Links-Scripts/main/Microsoft%20Redistributable%20All-In-One.zip) |
 | **Intel Network Adapter Driver** | Drivers for Intel Ethernet (wired) network adapters on Windows 10. | [Download](https://www.intel.com/content/www/us/en/download/18293/intel-network-adapter-driver-for-windows-10.html) |
