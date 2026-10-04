@@ -6,16 +6,17 @@ A collection of download links and scripts I use regularly.
 
 | Name | Description | Link |
 | ---- | ----------- | ---- |
-| Floorp | Privacy-focused Firefox-based web browser (always the latest release) | [Download](https://github.com/Floorp-Projects/Floorp/releases/latest) |
 | Rufus | Create bootable USB drives from ISO images (always the latest release) | [Download](https://github.com/pbatard/rufus/releases/latest) |
 | Windows 11 25H2 | Build a Windows 11 25H2 ISO from Microsoft's update servers via UUP dump | [Download](https://uupdump.net/known.php?q=category:w11-25h2) |
 | Windows 11 26H2 | Build a Windows 11 26H2 ISO from Microsoft's update servers via UUP dump | [Download](https://uupdump.net/known.php?q=category:w11-26h2) |
+| Floorp | Privacy-focused Firefox-based web browser (always the latest release) | [Download](https://github.com/Floorp-Projects/Floorp/releases/latest) |
 
-## Scripts
+## Drivers and Scripts
 
 | Name | Description | Link |
 | ---- | ----------- | ---- |
 | Microsoft Redistributable All-In-One | Downloads, signature-checks and silently installs every Visual C++ Redistributable (2005-2026, x86 + x64). Extract and run `Install-VCRedist.bat`. | [Download](https://github.com/oncekaelen/Needed-Links-Scripts/raw/main/Microsoft%20Redistributable%20All-In-One.zip) |
+| Intel Network Adapter Driver | Intel Ethernet (wired) network adapter drivers for Windows 10, from Intel's official download page | [Download](https://www.intel.com/content/www/us/en/download/18293/intel-network-adapter-driver-for-windows-10.html) |
 
 ## Notes
 
