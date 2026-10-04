@@ -14,8 +14,7 @@ A collection of download links and scripts I use regularly.
 
 | Name | Description | Link |
 | ---- | ----------- | ---- |
-| Example Script | What the script does | [Download](https://example.com) |
-|  |  |  |
+| Microsoft Redistributable All-In-One | Downloads, signature-checks and silently installs every Visual C++ Redistributable (2005-2026, x86 + x64). Extract and run `Install-VCRedist.bat`. | [Download](https://github.com/oncekaelen/Needed-Links-Scripts/raw/main/Microsoft%20Redistributable%20All-In-One.zip) |
 
 ## Notes
 
