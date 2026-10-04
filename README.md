@@ -7,7 +7,7 @@ A collection of download links and scripts I use regularly.
 | Name | Description | Link |
 | ---- | ----------- | ---- |
 | Rufus | Create bootable USB drives from ISO images (always the latest release) | [Download](https://github.com/pbatard/rufus/releases/latest) |
-|  |  |  |
+| Windows 11 25H2 | Build a Windows 11 25H2 ISO from Microsoft's update servers via UUP dump | [Download](https://uupdump.net/known.php?q=category:w11-25h2) |
 |  |  |  |
 
 ## Scripts
