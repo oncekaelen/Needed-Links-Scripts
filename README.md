@@ -18,6 +18,7 @@ A personal collection of download links, drivers and scripts I use regularly.
 | **Ubuntu Desktop** | Popular, beginner-friendly Linux distribution. Official ISO downloads. | [Download](https://ubuntu.com/download/desktop) |
 | **CachyOS** | Performance-focused, Arch-based Linux distribution. Official ISO downloads. | [Download](https://cachyos.org/download/) |
 | **Floorp** | Privacy-focused, Firefox-based web browser. Always the latest release. | [Download](https://github.com/Floorp-Projects/Floorp/releases/latest) |
+| **Firefox** | Mozilla's open-source web browser. Always the latest release (Windows 64-bit installer). | [Download](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US) |
 
 ## Drivers and Scripts
 
