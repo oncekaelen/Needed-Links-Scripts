@@ -15,6 +15,8 @@ A personal collection of download links, drivers and scripts I use regularly.
 | **Rufus** | Create bootable USB drives from ISO images. Always the latest release. | [Download](https://github.com/pbatard/rufus/releases/latest) |
 | **Windows 11 25H2** | Build a Windows 11 25H2 ISO straight from Microsoft's update servers. | [Download](https://uupdump.net/known.php?q=category:w11-25h2) |
 | **Windows 11 26H2** | Build a Windows 11 26H2 ISO straight from Microsoft's update servers. | [Download](https://uupdump.net/known.php?q=category:w11-26h2) |
+| **Ubuntu Desktop** | Popular, beginner-friendly Linux distribution. Official ISO downloads. | [Download](https://ubuntu.com/download/desktop) |
+| **CachyOS** | Performance-focused, Arch-based Linux distribution. Official ISO downloads. | [Download](https://cachyos.org/download/) |
 | **Floorp** | Privacy-focused, Firefox-based web browser. Always the latest release. | [Download](https://github.com/Floorp-Projects/Floorp/releases/latest) |
 
 ## Drivers and Scripts
