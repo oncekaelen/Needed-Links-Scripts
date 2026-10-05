@@ -12,12 +12,12 @@ A personal collection of download links, drivers and scripts I use regularly.
 
 | Name | Description | Link |
 | :--- | :---------- | :--: |
-| **Rufus** | Create bootable USB drives from ISO files. | [Download](https://github.com/pbatard/rufus/releases/latest) |
+| **Rufus** | Create bootable USB drives from ISO files. | [Download](https://rufus.ie/en/#download) |
 | **Windows 11 25H2** | Build a Windows 11 25H2 ISO from Microsoft's servers. | [Download](https://uupdump.net/known.php?q=category:w11-25h2) |
 | **Windows 11 26H2** | Build a Windows 11 26H2 ISO from Microsoft's servers. | [Download](https://uupdump.net/known.php?q=category:w11-26h2) |
 | **Ubuntu Desktop** | Easy-to-use Linux, great for beginners. | [Download](https://ubuntu.com/download/desktop) |
 | **CachyOS** | Performance-tuned Linux based on Arch. | [Download](https://cachyos.org/download/) |
-| **Floorp** | Privacy-focused web browser based on Firefox. | [Download](https://github.com/Floorp-Projects/Floorp/releases/latest) |
+| **Floorp** | Privacy-focused web browser based on Firefox. | [Download](https://floorp.app/download) |
 | **Firefox** | Open-source web browser from Mozilla. | [Download](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US) |
 
 ## Drivers and Scripts
